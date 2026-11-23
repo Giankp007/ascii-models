@@ -9,7 +9,7 @@
 Python file. Open the folder in VS Code, click a file, press **Ctrl + Alt + N**, and watch it play.
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Earth, Donut 3D, Winter Night, Synthwave, Galaxy and Fireworks as ASCII animations" width="720">
+  <img src="docs/demo.gif" alt="All 58 ASCII animations playing one after another" width="720">
 </p>
 
 No app, no setup wizard, no assets: every frame is computed from maths (sine waves, particles, fractals, 3D
