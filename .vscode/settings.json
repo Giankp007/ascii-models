@@ -1,0 +1,9 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.fileDirectoryAsCwd": false,
+  "code-runner.executorMap": { "python": "python -u" },
+  "terminal.integrated.fontSize": 10,
+  "terminal.integrated.minimumContrastRatio": 1,
+  "files.exclude": { "**/__pycache__": true, ".vscode": true }
+}
