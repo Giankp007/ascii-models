@@ -104,6 +104,16 @@ python 19_earth.py
 | 28 | [🌈 Rainbow](28_rainbow.py) | 57 | [💡 Neon Sign](57_neon_sign.py) |
 | 29 | [💧 Waterfall](29_waterfall.py) | 💌 | [Love Heart](love_heart.py) |
 
+### 🎄 Winter Night
+
+`01_winter_night.py` is hand-made and more detailed than the others: instead of mapping brightness to
+characters, every object is a real shape. Each character cell is sampled 12 times, outlines get matching
+characters (`/ \ ( ) ^ _`), and background colours add the glow of the moon, the star and the fireworks.
+The tree grows tier by tier, garlands with blinking bulbs wrap around it, baubles pop in, presents drop
+into the snow, the star lights up, and then rockets fly up and burst (peony, ring and golden willow).
+
+<p align="center"><img src="docs/winter_night.png" alt="Winter Night" width="760"></p>
+
 ### 💌 Love Heart
 
 `love_heart.py` is a bit different: instead of shading pixels it places **"I love you" in 34 languages**
